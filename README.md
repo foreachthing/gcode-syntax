@@ -8,7 +8,7 @@ To install this syntax highlighter:
 - Make sure you have the latest [notepad++](https://notepad-plus-plus.org/) installed to use the new user defined languages.
 - Clone this repository or just download the [_gcode.xml_](https://github.com/foreachthing/gcode-syntax/blob/master/gcode.xml)  and/or [_gcode-zenburn.xml_](https://github.com/foreachthing/gcode-syntax/blob/master/gcode-zenburn.xml) file (that's all you need).
 - In Notepad++, go to the "Language"->"Define Your Language..." dialog.
-- Click "Import", then browse to the downloaded _gcode.xml_ file. If you see "Import was successful", then the G Code syntax highlighter is installed.
+- Click "Import", then browse to the downloaded _*.xml_ file. If you see "Import was successful", then the G Code syntax highlighter is installed.
 
 ## 1.0.1
 - Added more M- and G-Codes for 3D-Printing for the Ultimaker 2, sliced with Cura and Craftware.
