@@ -9,3 +9,5 @@ To install this syntax highlighter:
 - Clone this repository or just download the [_gcode.xml_](https://github.com/robEllenberg/gcode-syntax/blob/master/gcode.xml)  file (that's all you need)
 - In Notepad++, go to the "Language"->"Define Your Language..." dialog
 - Click "Import", then browse to the downloaded _gcode.xml_ file. If you see "Import was successful", then the G Code syntax highlighter is installed.
+
+- Added more M- and G-Codes for 3D-Printing for the Ultimaker 2, sliced with Cura and Craftware.
